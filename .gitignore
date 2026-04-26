@@ -1,0 +1,5 @@
+openapi.yaml
+*.gem
+.bundle/
+vendor/bundle/
+.openapi-generator/
